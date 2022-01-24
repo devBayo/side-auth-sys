@@ -20,7 +20,7 @@
         <style>
              input[type=text],input[type=password],input[type=submit]{
                 padding:20px;
-                margin:20px 20px 20px 20px;
+                margin:20px;
                 border:0;
                 box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
                 border-radius:20px;
